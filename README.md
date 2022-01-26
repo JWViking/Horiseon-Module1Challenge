@@ -11,4 +11,4 @@ This is a project created in a coding bootcamp practicing accessibility, CSS org
 
 ![Screen Shot 2022-01-25 at 10 31 52 PM](https://user-images.githubusercontent.com/97365590/151109164-235f0944-8dbc-40c6-97f5-c0b66dbbefbe.png)
 
-## Deployed Website: 
+## Deployed Website: https://jwviking.github.io/Horiseon-Module1Challenge/
